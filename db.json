@@ -5,8 +5,8 @@
         "subject":"english",
         "image":"english",
         "description":"English - Class-9, previous year question paper-2022",
-        "download":"assets/images/courses-9/english-2022.pdf",
-        "view":"assets/images/courses-9/english-2022.pdf",
+        "download":"assets/images/courses-9/english2-2022-23.pdf",
+        "view":"assets/images/courses-9/english2-2022-23.pdf",
         "author":"Tushar",
         "class":"class-9"
       
@@ -16,8 +16,8 @@
       "subject":"hindi",
       "image":"hindi",
       "description":"hindi - Class-9, previous year question paper-2022",
-      "download":"assets/images/courses-9/hindi-2022.pdf",
-      "view":"assets/images/courses-9/hindi-2022.pdf",
+      "download":"assets/images/courses-9/hindi2-2022-23.pdf",
+      "view":"assets/images/courses-9/hindi2-2022-23.pdf",
       "author":"Tushar",
         "class":"class-9"
       
@@ -27,8 +27,8 @@
       "subject":"maths",
       "image":"maths",
       "description":"maths - Class-9, previous year question paper-2022",
-      "download":"assets/images/courses-9/maths-2022.pdf",
-      "view":"assets/images/courses-9/maths-2022.pdf",
+      "download":"assets/images/courses-9/maths2-2022-23.pdf",
+      "view":"assets/images/courses-9/maths2-2022-23.pdf",
       "author":"Tushar",
         "class":"class-9"
       
@@ -38,8 +38,8 @@
       "subject":"science",
       "image":"science",
       "description":"science - Class-9, previous year question paper-2022",
-      "download":"assets/images/courses-9/science-2022.pdf",
-      "view":"assets/images/courses-9/science-2022.pdf",
+      "download":"assets/images/courses-9/science2-2022-23.pdf",
+      "view":"assets/images/courses-9/science2-2022-23.pdf",
       "author":"Tushar",
         "class":"class-9"
       
@@ -48,8 +48,8 @@
       "subject":"sst",
       "image":"sst",
       "description":"sst - Class-9, previous year question paper-2022",
-      "download":"assets/images/courses-9/sst-2022.pdf",
-      "view":"assets/images/courses-9/sst-2022.pdf",
+      "download":"assets/images/courses-9/sst2-2022-23.pdf",
+      "view":"assets/images/courses-9/sst2-2022-23.pdf",
       "author":"Tushar",
         "class":"class-9"
       
@@ -63,46 +63,112 @@
       "author":"Tushar",
         "class":"class-9"
       
-      },{
-      "id":7,
-      "subject":"it",
-      "image":"it",
-      "description":"it - Class-9, previous year question paper-2022",
-      "download":"assets/images/courses-9/it-2022.pdf",
-      "view":"assets/images/courses-9/it-2022.pdf",
-      "author":"Tushar",
+      }, {
+        "id":7,
+        "subject":"english",
+        "image":"english",
+        "description":"English - Class-9, previous year question paper-2022",
+        "download":"assets/images/courses-9/english-2022-23.pdf",
+        "view":"assets/images/courses-9/english-2022-23.pdf",
+        "author":"Tushar",
         "class":"class-9"
       
-      },{
+      }, {
       "id":8,
-      "subject":"computer",
-      "image":"computer",
-      "description":"computer - Class-9, previous year question paper-2019",
-      "download":"assets/images/courses-9/computer-2019.pdf",
-      "view":"assets/images/courses-9/computer-2019.pdf",
+      "subject":"hindi",
+      "image":"hindi",
+      "description":"hindi - Class-9, previous year question paper-2022",
+      "download":"assets/images/courses-9/hindi-2022-23.pdf",
+      "view":"assets/images/courses-9/hindi-2022-23.pdf",
       "author":"Tushar",
         "class":"class-9"
       
       },{
       "id":9,
-      "subject":"maths",
-      "image":"maths",
-      "description":"maths - Class-9, basic sample paper-2023",
-      "download":"assets/images/courses-9/maths-basic-sample-2023.pdf",
-      "view":"assets/images/courses-9/maths-basic-sample-2023.pdf",
+      "subject":"English",
+      "image":"English",
+      "description":"English - Class-9, previous year question paper-2022",
+      "download":"assets/images/courses-9/mid-english-2022.pdf",
+      "view":"assets/images/courses-9/mid-english-2022.pdf",
+      "author":"Tushar",
+        "class":"class-9"
+      },
+        {
+      "id":10,
+      "subject":"science",
+      "image":"science",
+      "description":"science - Class-9, previous year question paper-2022",
+      "download":"assets/images/courses-9/science-2022-23.pdf",
+      "view":"assets/images/courses-9/science-2022-23.pdf",
       "author":"Tushar",
         "class":"class-9"
       
-      },{
-      "id":9,
-      "subject":"maths",
-      "image":"maths",
-      "description":"maths - Class-9, standard sample paper-2023",
-      "download":"assets/images/courses-9/maths-standard-sample-2023.pdf",
-      "view":"assets/images/courses-9/maths-standard-sample-2023.pdf",
+      },
+        {
+      "id":11,
+      "subject":"sst",
+      "image":"sst",
+      "description":"sst - Class-9, previous year question paper-2022",
+      "download":"assets/images/courses-9/sst-2022-23.pdf",
+      "view":"assets/images/courses-9/sst-2022-23.pdf",
       "author":"Tushar",
         "class":"class-9"
       
+      },
+        {
+      "id":12,
+      "subject":"Hindi",
+      "image":"Hindi",
+      "description":"Hindi - Class-9, previous year Mid Term question paper-2022",
+      "download":"assets/images/courses-9/mid-hindi-2022.pdf",
+      "view":"assets/images/courses-9/mid-hindi-2022.pdf",
+      "author":"Tushar",
+        "class":"class-9"
       }
+        ,
+        {
+      "id":13,
+      "subject":"maths",
+      "image":"maths",
+      "description":"Maths - Class-9, previous year Mid Term question paper-2022",
+      "download":"assets/images/courses-9/mid-maths-2022.pdf",
+      "view":"assets/images/courses-9/mid-maths-2022.pdf",
+      "author":"Tushar",
+        "class":"class-9"
+      }
+        ,
+        {
+      "id":14,
+      "subject":"Science",
+      "image":"Science",
+      "description":"Science - Class-9, previous year Mid Term question paper-2022",
+      "download":"assets/images/courses-9/mid-science-2022.pdf",
+      "view":"assets/images/courses-9/mid-science-2022.pdf",
+      "author":"Tushar",
+        "class":"class-9"
+      }
+        ,
+        {
+      "id":15,
+      "subject":"sst",
+      "image":"sst",
+      "description":"Social science - Class-9, previous year Mid Term question paper-2022",
+      "download":"assets/images/courses-9/mid-sst-2022.pdf",
+      "view":"assets/images/courses-9/mid-sst-2022.pdf",
+      "author":"Tushar",
+        "class":"class-9"
+      }
+         ,
+        {
+      "id":15,
+      "subject":"sanskrit",
+      "image":"sanskrit",
+      "description":"Sanskrit - Class-9, previous year Mid Term question paper-2022",
+      "download":"assets/images/courses-9/mid-sanskrit-2022.pdf",
+      "view":"assets/images/courses-9/mid-sanskrit-2022.pdf",
+      "author":"Tushar",
+        "class":"class-9"
+      }
+        
       ]
 }
